@@ -1,0 +1,15 @@
+section p:first-child{
+    background-color: rgba(255, 165,0,1)
+}
+section p:nth-child(2){
+    background-color: rgba(255, 165,0,0.8)
+}
+section p:nth-child(3){
+    background-color: rgba(255, 165,0,0.6)
+}
+section p:nth-child(4){
+    background-color: rgba(255, 165,0,0.4)
+}
+section p:last-child{
+    background-color: rgba(255, 165,0,0.2)
+}
